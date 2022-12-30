@@ -2,6 +2,8 @@
 
 **A set of challenges to learn offensive security of smart contracts in Ethereum.**
 
+# Damn Vulnerable DeFi - challenges
+
 Featuring flash loans, price oracles, governance, NFTs, lending pools, smart contract wallets, timelocks, and more!
 
 ## Play
